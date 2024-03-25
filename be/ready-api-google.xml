@@ -67,6 +67,10 @@
         <con:request name="Request 1" id="4011fd0a-64bb-47b9-9701-c9c654050d76" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -326,6 +330,10 @@ Finds Pets by status</con:description>
         <con:request name="Request 1" id="c23ea7e9-1839-4db9-a378-b420ba8036e8" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -387,6 +395,10 @@ Finds Pets by tags</con:description>
         <con:request name="Request 1" id="b0de366a-082a-4938-9045-0976baa442da" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -458,6 +470,10 @@ Find pet by ID</con:description>
         <con:request name="Request 1" id="e82b01ec-c496-47d6-a5ef-d399caa266b9" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -493,6 +509,10 @@ Find pet by ID</con:description>
         <con:request name="Request 1" id="2ebf5fba-8ff8-4800-a5ee-557cf49a9684" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -529,6 +549,10 @@ Find pet by ID</con:description>
         <con:request name="Request 1" id="3c8c1858-c8b2-45c5-80ee-fde22e0f371e" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -675,6 +699,10 @@ Find purchase order by ID</con:description>
         <con:request name="Request 1" id="410f1428-024d-41d9-9c2d-0daf2607417e" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -706,6 +734,10 @@ Delete purchase order by ID</con:description>
         <con:request name="Request 1" id="03bc541a-a7ab-4b32-8ae3-4172a6469a17" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -731,6 +763,10 @@ Returns pet inventories by status</con:description>
         <con:request name="Request 1" id="48fa65ab-8d0e-4d8c-8572-e9fb0e1e5f43" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -877,6 +913,10 @@ Returns pet inventories by status</con:description>
         <con:request name="Request 1" id="6de7a197-c69d-49b4-b2a6-34c55a77fbaf" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -971,6 +1011,10 @@ Delete user</con:description>
         <con:request name="Request 1" id="1faa40b5-7cff-42f9-a006-81ec69a3d1c4" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -1018,6 +1062,10 @@ Delete user</con:description>
         <con:request name="Request 1" id="abf02726-6c75-48d8-91e0-a7c964d9649e" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -1042,6 +1090,10 @@ Delete user</con:description>
         <con:request name="Request 1" id="e079ee45-3eb1-4637-8577-d95fac78ba73" mediaType="application/json">
           <con:settings/>
           <con:endpoint>http://petstore.swagger.io</con:endpoint>
+          <con:credentials>
+            <con:selectedAuthProfile>No Authorization</con:selectedAuthProfile>
+            <con:authType>No Authorization</con:authType>
+          </con:credentials>
           <con:parameters/>
         </con:request>
       </con:method>
@@ -1414,7 +1466,7 @@ for(pet in aux) {
   </con:testSuite>
   <con:savedRecentRuns>1</con:savedRecentRuns>
   <con:requirements/>
-  <con:properties></con:properties>
+  <con:properties/>
   <con:wssContainer/>
   <con:databaseConnectionContainer/>
   <con:jmsConnectionContainer/>
