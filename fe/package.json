@@ -1,0 +1,20 @@
+{
+    "name": "cypress-cucumber",
+    "version": "1.0.0",
+    "description": "Web Automation Framework",
+    "main": "index.js",
+    "scripts": {
+        "cypress:open": "cypress open",
+        "test": "cypress run --env TAGS='@run' --spec 'cypress/integration/**/*.feature' --record --key 847b57c6-1ab6-4973-a81a-9047b524bc64",
+        "test:debug": "cypress run --headed --browser chrome --env TAGS='@e2e-test' --spec 'cypress/integration/**/*.feature'"
+    },
+    "author": "",
+    "license": "Private",
+    "cypress-cucumber-preprocessor": {
+        "nonGlobalStepDefinitions": true
+    },
+    "devDependencies": {
+        "cypress": "^13.7.1",
+        "cypress-cucumber-preprocessor": "^4.3.1"
+    }
+}
