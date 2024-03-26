@@ -1,8 +1,7 @@
 const COOKIES = '#L2AGLb > .QS5gu';
 const SEARCH_BAR = '#APjFqb';
 const RESULTS = '#result-stats';
-const WIKIPEDIA_LINK = ':nth-child(3) > .g > .N54PNb > .jGGQ5e > .yuRUbf > :nth-child(1) > [jscontroller="msmzHf"] > a > .LC20lb';
-const CHECK_WIKIPEDIA = '#Industrial_Revolution_in_Western_Europe';
+const WIKIPEDIA_LINK = ':nth-child(2) > .g > .N54PNb > .jGGQ5e > .yuRUbf > :nth-child(1) > [jscontroller="msmzHf"] > a > .LC20lb';
 
 
 class GoogleMainPage {
